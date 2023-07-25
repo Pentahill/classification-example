@@ -20,4 +20,4 @@ class Inferencer():
         return [ post_process(out) for out in outputs]
 
 
-inferencer = Inferencer()
+inference = Inferencer()
